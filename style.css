@@ -8,8 +8,6 @@ form > * {
     margin: 5px;
 }
 
-#resultado {
-    text-align: center;
-    color: red;
-    font-size: 1.25em;
+img {
+    max-width: 100%;
 }
